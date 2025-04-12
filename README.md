@@ -1,3 +1,7 @@
+#Head
+
+![](<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%60Just+one+more+feature%E2%80%A6+said+3+hours+ago%60." alt="Typing SVG" /></a>)
+
 # 💫 About Me:
 ### 👋 About Me<br><br>Hi there! I'm **Kai**, a passionate Frontend Developer from Vietnam 🇻🇳 with a strong love for clean UI, smooth animations, and creative web experiences.<br><br>- 🌱 Currently diving deeper into **backend development** with NestJS & Java to become a full-stack developer.<br>- 🎯 My 2025 goal is to build meaningful projects, explore new tech stacks, and grow a DevLife TikTok channel with fun and relatable content for fellow developers.<br>- 🧠 I'm always curious, constantly learning, and not afraid of challenges—especially when it comes to building cool UI with React, Vue, or TypeScript.<br>- 🤝 I enjoy sharing ideas, learning from the community, and collaborating on exciting projects.
 
